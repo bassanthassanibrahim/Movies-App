@@ -39,12 +39,6 @@ This app uses data from [The Movie Database (TMDb) API](https://www.themoviedb.o
 - Good code organization, readability, and maintainability are ensured.
 - Version control (e.g., Git) is used for tracking changes.
 
-## Demo APK
-
-You can download the demo APK for the Movie App from the following link:
-
-[Download Demo APK](https://github.com/bassanthassanibrahim/Movies-App/blob/master/screen/app-debug-androidTest.apk)
-
 ## Screenshots
 <div align="center">
 <img src="screen/Screenshot1.png" alt="Movie List" width="400"/>

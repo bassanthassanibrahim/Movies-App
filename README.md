@@ -43,7 +43,7 @@ This app uses data from [The Movie Database (TMDb) API](https://www.themoviedb.o
 
 You can download the demo APK for the Movie App from the following link:
 
-[Download Demo APK](https://github.com/bassanthassanibrahim/Movies-App/blob/main/screen/app-debug-androidTest.apk)
+[Download Demo APK](https://github.com/bassanthassanibrahim/Movies-App/blob/master/screen/app-debug-androidTest.apk)
 
 ## Screenshots
 <div align="center">
